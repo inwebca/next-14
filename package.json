@@ -13,8 +13,10 @@
     "@firebase/firestore": "^4.7.3",
     "firebase": "^10.14.1",
     "next": "14.2.15",
+    "next-14": "file:",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-firebase-hooks": "^5.1.1"
   },
   "devDependencies": {
     "@types/node": "^20",
